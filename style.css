@@ -7,7 +7,7 @@ section{
     padding-bottom: 150px;
 }
 .welcome-section{
-    background-image: url("exp-bg.png");
+    background-image: url("top-banner.png");
     background-repeat: no-repeat;
 
 }
@@ -19,4 +19,21 @@ section{
 }
 .top-section img{
     width: 100%;
+    padding-top: 2px;
+}
+
+h1{
+    font-size: 50px;
+
+}
+h1 span{
+    color: orange;
+}
+.anchor-button{
+    text-decoration: none;
+    background-color: rgba(255, 68, 0, 0.646);
+    color: aliceblue;
+    padding: 10px 40px;
+    font-weight: 700;
+    border-radius: 5px;
 }
