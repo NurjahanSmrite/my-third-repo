@@ -42,3 +42,13 @@ h1 span{
     background-repeat: no-repeat;
     background-position: right;
 }
+h2{
+    font-size: 40px;
+}
+.experience h3{
+    color: orange;
+}
+.experience{
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+}
