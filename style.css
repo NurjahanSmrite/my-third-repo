@@ -51,4 +51,22 @@ h2{
 .experience{
     background-image: url("exp-bg.png");
     background-repeat: no-repeat;
+    background-position: left;
+}
+.experience div{
+    box-shadow: 5px 7px 40px gray;
+    height: 80%;
+}
+#full-stack{
+    border-left: 7px solid orange;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue 100%, cyan 100%);
+    border-image-slice: 1;
+}
+
+footer{
+    text-align: center;
+    color: rgba(128, 128, 128, 0.977);
 }
